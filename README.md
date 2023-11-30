@@ -7,6 +7,12 @@
 
 static webpage - HTML CSS copilot demo
 
+1. create a workspace using:
+/new static web page on the GH copilot chat
+2. create that workspace by demonstrating
+3. use /explain to explain the selected codes (e.g. ul blocks)
+4. 
+
 ### Prerequisites
 
 - Azure CLI
